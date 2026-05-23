@@ -1,0 +1,309 @@
+community_area,area_name,crime_category,crimes,arrests,pct_below_poverty,per_capita_income,hardship_index,arrest_rate
+1,Rogers Park,Other,3170,225,23.6,23939,39.0,0.071
+1,Rogers Park,Property,12482,1217,23.6,23939,39.0,0.098
+1,Rogers Park,Quality-of-Life,836,667,23.6,23939,39.0,0.798
+1,Rogers Park,Violent,7822,1295,23.6,23939,39.0,0.166
+2,West Ridge,Other,3689,165,17.2,23040,46.0,0.045
+2,West Ridge,Property,11001,533,17.2,23040,46.0,0.048
+2,West Ridge,Quality-of-Life,562,418,17.2,23040,46.0,0.744
+2,West Ridge,Violent,6537,977,17.2,23040,46.0,0.149
+3,Uptown,Other,3432,190,24.0,35787,20.0,0.055
+3,Uptown,Property,11453,1120,24.0,35787,20.0,0.098
+3,Uptown,Quality-of-Life,582,472,24.0,35787,20.0,0.811
+3,Uptown,Violent,7518,1263,24.0,35787,20.0,0.168
+4,Lincoln Square,Other,1844,74,10.9,37524,17.0,0.04
+4,Lincoln Square,Property,6523,373,10.9,37524,17.0,0.057
+4,Lincoln Square,Quality-of-Life,235,183,10.9,37524,17.0,0.779
+4,Lincoln Square,Violent,3256,589,10.9,37524,17.0,0.181
+5,North Center,Other,1459,59,7.5,57123,6.0,0.04
+5,North Center,Property,4597,198,7.5,57123,6.0,0.043
+5,North Center,Quality-of-Life,151,98,7.5,57123,6.0,0.649
+5,North Center,Violent,1576,191,7.5,57123,6.0,0.121
+6,Lake View,Other,5340,147,11.4,60058,5.0,0.028
+6,Lake View,Property,20801,1365,11.4,60058,5.0,0.066
+6,Lake View,Quality-of-Life,598,472,11.4,60058,5.0,0.789
+6,Lake View,Violent,8134,1418,11.4,60058,5.0,0.174
+7,Lincoln Park,Other,3077,63,12.3,71551,2.0,0.02
+7,Lincoln Park,Property,14898,572,12.3,71551,2.0,0.038
+7,Lincoln Park,Quality-of-Life,334,259,12.3,71551,2.0,0.775
+7,Lincoln Park,Violent,4045,482,12.3,71551,2.0,0.119
+8,Near North Side,Other,9478,593,12.9,88669,1.0,0.063
+8,Near North Side,Property,34689,3768,12.9,88669,1.0,0.109
+8,Near North Side,Quality-of-Life,2811,2497,12.9,88669,1.0,0.888
+8,Near North Side,Violent,15795,2699,12.9,88669,1.0,0.171
+9,Edison Park,Other,552,26,3.3,40959,8.0,0.047
+9,Edison Park,Property,728,27,3.3,40959,8.0,0.037
+9,Edison Park,Quality-of-Life,18,14,3.3,40959,8.0,0.778
+9,Edison Park,Violent,407,53,3.3,40959,8.0,0.13
+10,Norwood Park,Other,1926,40,5.4,32875,21.0,0.021
+10,Norwood Park,Property,3435,200,5.4,32875,21.0,0.058
+10,Norwood Park,Quality-of-Life,113,88,5.4,32875,21.0,0.779
+10,Norwood Park,Violent,1879,280,5.4,32875,21.0,0.149
+11,Jefferson Park,Other,1320,79,8.6,27751,25.0,0.06
+11,Jefferson Park,Property,3025,196,8.6,27751,25.0,0.065
+11,Jefferson Park,Quality-of-Life,141,104,8.6,27751,25.0,0.738
+11,Jefferson Park,Violent,1700,308,8.6,27751,25.0,0.181
+12,Forest Glen,Other,878,19,7.5,44164,11.0,0.022
+12,Forest Glen,Property,1635,46,7.5,44164,11.0,0.028
+12,Forest Glen,Quality-of-Life,71,36,7.5,44164,11.0,0.507
+12,Forest Glen,Violent,644,83,7.5,44164,11.0,0.129
+13,North Park,Other,901,38,13.2,26576,33.0,0.042
+13,North Park,Property,2764,145,13.2,26576,33.0,0.052
+13,North Park,Quality-of-Life,141,83,13.2,26576,33.0,0.589
+13,North Park,Violent,1611,187,13.2,26576,33.0,0.116
+14,Albany Park,Other,1884,139,19.2,21323,53.0,0.074
+14,Albany Park,Property,6772,334,19.2,21323,53.0,0.049
+14,Albany Park,Quality-of-Life,620,433,19.2,21323,53.0,0.698
+14,Albany Park,Violent,4444,651,19.2,21323,53.0,0.146
+15,Portage Park,Other,3277,343,11.6,24336,35.0,0.105
+15,Portage Park,Property,8706,606,11.6,24336,35.0,0.07
+15,Portage Park,Quality-of-Life,696,520,11.6,24336,35.0,0.747
+15,Portage Park,Violent,5605,961,11.6,24336,35.0,0.171
+16,Irving Park,Other,2429,227,13.1,27249,34.0,0.093
+16,Irving Park,Property,7856,287,13.1,27249,34.0,0.037
+16,Irving Park,Quality-of-Life,575,392,13.1,27249,34.0,0.682
+16,Irving Park,Violent,4606,622,13.1,27249,34.0,0.135
+17,Dunning,Other,2243,104,10.6,26282,28.0,0.046
+17,Dunning,Property,4217,192,10.6,26282,28.0,0.046
+17,Dunning,Quality-of-Life,240,174,10.6,26282,28.0,0.725
+17,Dunning,Violent,2767,441,10.6,26282,28.0,0.159
+18,Montclaire,Other,686,23,15.3,22014,50.0,0.034
+18,Montclaire,Property,1861,81,15.3,22014,50.0,0.044
+18,Montclaire,Quality-of-Life,141,83,15.3,22014,50.0,0.589
+18,Montclaire,Violent,1080,172,15.3,22014,50.0,0.159
+19,Belmont Cragin,Other,4358,514,18.7,15461,70.0,0.118
+19,Belmont Cragin,Property,11056,823,18.7,15461,70.0,0.074
+19,Belmont Cragin,Quality-of-Life,1764,1287,18.7,15461,70.0,0.73
+19,Belmont Cragin,Violent,9063,1334,18.7,15461,70.0,0.147
+20,Hermosa,Other,1299,126,20.5,15089,71.0,0.097
+20,Hermosa,Property,3501,305,20.5,15089,71.0,0.087
+20,Hermosa,Quality-of-Life,586,416,20.5,15089,71.0,0.71
+20,Hermosa,Violent,2950,392,20.5,15089,71.0,0.133
+21,Avondale,Other,1689,117,15.3,20039,42.0,0.069
+21,Avondale,Property,6787,543,15.3,20039,42.0,0.08
+21,Avondale,Quality-of-Life,409,250,15.3,20039,42.0,0.611
+21,Avondale,Violent,3594,511,15.3,20039,42.0,0.142
+22,Logan Square,Other,3547,311,16.8,31908,23.0,0.088
+22,Logan Square,Property,16240,1334,16.8,31908,23.0,0.082
+22,Logan Square,Quality-of-Life,784,562,16.8,31908,23.0,0.717
+22,Logan Square,Violent,7011,1132,16.8,31908,23.0,0.161
+23,Humboldt park,Other,4317,789,33.9,13781,85.0,0.183
+23,Humboldt park,Property,14409,996,33.9,13781,85.0,0.069
+23,Humboldt park,Quality-of-Life,8644,7912,33.9,13781,85.0,0.915
+23,Humboldt park,Violent,14445,1848,33.9,13781,85.0,0.128
+24,West Town,Other,4727,386,14.7,43198,10.0,0.082
+24,West Town,Property,25928,1098,14.7,43198,10.0,0.042
+24,West Town,Quality-of-Life,1181,869,14.7,43198,10.0,0.736
+24,West Town,Violent,10374,1357,14.7,43198,10.0,0.131
+25,Austin,Other,9326,918,28.6,15957,73.0,0.098
+25,Austin,Property,29912,2040,28.6,15957,73.0,0.068
+25,Austin,Quality-of-Life,8836,7320,28.6,15957,73.0,0.828
+25,Austin,Violent,31151,4359,28.6,15957,73.0,0.14
+26,West Garfield Park,Other,2227,440,41.7,10934,92.0,0.198
+26,West Garfield Park,Property,8017,519,41.7,10934,92.0,0.065
+26,West Garfield Park,Quality-of-Life,7262,6751,41.7,10934,92.0,0.93
+26,West Garfield Park,Violent,10006,1209,41.7,10934,92.0,0.121
+27,East Garfield Park,Other,2340,330,42.4,12961,83.0,0.141
+27,East Garfield Park,Property,8952,509,42.4,12961,83.0,0.057
+27,East Garfield Park,Quality-of-Life,3522,3176,42.4,12961,83.0,0.902
+27,East Garfield Park,Violent,9705,1173,42.4,12961,83.0,0.121
+28,Near West Side,Other,6912,431,20.6,44689,15.0,0.062
+28,Near West Side,Property,30433,2195,20.6,44689,15.0,0.072
+28,Near West Side,Quality-of-Life,2106,1707,20.6,44689,15.0,0.811
+28,Near West Side,Violent,15489,2006,20.6,44689,15.0,0.13
+29,North Lawndale,Other,4330,748,43.1,12034,87.0,0.173
+29,North Lawndale,Property,14397,1035,43.1,12034,87.0,0.072
+29,North Lawndale,Quality-of-Life,7865,7062,43.1,12034,87.0,0.898
+29,North Lawndale,Violent,17252,2487,43.1,12034,87.0,0.144
+30,South Lawndale,Other,2828,360,30.7,10402,96.0,0.127
+30,South Lawndale,Property,9072,623,30.7,10402,96.0,0.069
+30,South Lawndale,Quality-of-Life,2601,1944,30.7,10402,96.0,0.747
+30,South Lawndale,Violent,9930,1575,30.7,10402,96.0,0.159
+31,Lower West Side,Other,1861,153,25.8,16444,76.0,0.082
+31,Lower West Side,Property,7677,533,25.8,16444,76.0,0.069
+31,Lower West Side,Quality-of-Life,924,694,25.8,16444,76.0,0.751
+31,Lower West Side,Violent,5547,780,25.8,16444,76.0,0.141
+32,Loop,Other,7056,884,14.7,65526,3.0,0.125
+32,Loop,Property,28221,3889,14.7,65526,3.0,0.138
+32,Loop,Quality-of-Life,2109,1780,14.7,65526,3.0,0.844
+32,Loop,Violent,11108,2288,14.7,65526,3.0,0.206
+33,Near South Side,Other,2118,127,13.8,59077,7.0,0.06
+33,Near South Side,Property,6783,434,13.8,59077,7.0,0.064
+33,Near South Side,Quality-of-Life,663,574,13.8,59077,7.0,0.866
+33,Near South Side,Violent,3978,671,13.8,59077,7.0,0.169
+34,Armour Square,Other,668,53,40.1,16148,82.0,0.079
+34,Armour Square,Property,3137,183,40.1,16148,82.0,0.058
+34,Armour Square,Quality-of-Life,328,250,40.1,16148,82.0,0.762
+34,Armour Square,Violent,2247,315,40.1,16148,82.0,0.14
+35,Douglas,Other,2151,149,29.6,23791,47.0,0.069
+35,Douglas,Property,7811,451,29.6,23791,47.0,0.058
+35,Douglas,Quality-of-Life,966,736,29.6,23791,47.0,0.762
+35,Douglas,Violent,5581,651,29.6,23791,47.0,0.117
+36,Oakland,Other,656,25,39.7,19252,78.0,0.038
+36,Oakland,Property,2121,57,39.7,19252,78.0,0.027
+36,Oakland,Quality-of-Life,211,113,39.7,19252,78.0,0.536
+36,Oakland,Violent,1576,172,39.7,19252,78.0,0.109
+37,Fuller Park,Other,466,86,51.2,10432,97.0,0.185
+37,Fuller Park,Property,1685,170,51.2,10432,97.0,0.101
+37,Fuller Park,Quality-of-Life,485,369,51.2,10432,97.0,0.761
+37,Fuller Park,Violent,1670,218,51.2,10432,97.0,0.131
+38,Grand Boulevard,Other,2610,203,29.3,23472,57.0,0.078
+38,Grand Boulevard,Property,9505,462,29.3,23472,57.0,0.049
+38,Grand Boulevard,Quality-of-Life,1463,988,29.3,23472,57.0,0.675
+38,Grand Boulevard,Violent,7177,893,29.3,23472,57.0,0.124
+39,Kenwood,Other,1484,46,21.7,35911,26.0,0.031
+39,Kenwood,Property,5136,150,21.7,35911,26.0,0.029
+39,Kenwood,Quality-of-Life,286,167,21.7,35911,26.0,0.584
+39,Kenwood,Violent,3255,340,21.7,35911,26.0,0.104
+40,Washington Park,Other,1671,171,42.1,13785,88.0,0.102
+40,Washington Park,Property,5662,222,42.1,13785,88.0,0.039
+40,Washington Park,Quality-of-Life,1021,697,42.1,13785,88.0,0.683
+40,Washington Park,Violent,5607,711,42.1,13785,88.0,0.127
+41,Hyde Park,Other,1742,68,18.4,39056,14.0,0.039
+41,Hyde Park,Property,7018,245,18.4,39056,14.0,0.035
+41,Hyde Park,Quality-of-Life,202,130,18.4,39056,14.0,0.644
+41,Hyde Park,Violent,3304,275,18.4,39056,14.0,0.083
+42,Woodlawn,Other,2406,192,30.7,18672,58.0,0.08
+42,Woodlawn,Property,8904,508,30.7,18672,58.0,0.057
+42,Woodlawn,Quality-of-Life,1611,1094,30.7,18672,58.0,0.679
+42,Woodlawn,Violent,7769,988,30.7,18672,58.0,0.127
+43,South Shore,Other,5732,565,31.1,19398,55.0,0.099
+43,South Shore,Property,21895,1084,31.1,19398,55.0,0.05
+43,South Shore,Quality-of-Life,3139,2120,31.1,19398,55.0,0.675
+43,South Shore,Violent,20124,2538,31.1,19398,55.0,0.126
+44,Chatham,Other,4124,539,27.8,18881,60.0,0.131
+44,Chatham,Property,16472,1134,27.8,18881,60.0,0.069
+44,Chatham,Quality-of-Life,2486,1909,27.8,18881,60.0,0.768
+44,Chatham,Violent,13790,1895,27.8,18881,60.0,0.137
+45,Avalon Park,Other,1030,128,17.2,24454,41.0,0.124
+45,Avalon Park,Property,3136,128,17.2,24454,41.0,0.041
+45,Avalon Park,Quality-of-Life,597,422,17.2,24454,41.0,0.707
+45,Avalon Park,Violent,2518,293,17.2,24454,41.0,0.116
+46,South Chicago,Other,2907,428,29.8,16579,75.0,0.147
+46,South Chicago,Property,10171,460,29.8,16579,75.0,0.045
+46,South Chicago,Quality-of-Life,1833,1208,29.8,16579,75.0,0.659
+46,South Chicago,Violent,9698,1346,29.8,16579,75.0,0.139
+47,Burnside,Other,293,49,33.0,12515,79.0,0.167
+47,Burnside,Property,851,27,33.0,12515,79.0,0.032
+47,Burnside,Quality-of-Life,188,113,33.0,12515,79.0,0.601
+47,Burnside,Violent,726,84,33.0,12515,79.0,0.116
+48,Calumet Heights,Other,1173,140,11.5,28887,38.0,0.119
+48,Calumet Heights,Property,3911,135,11.5,28887,38.0,0.035
+48,Calumet Heights,Quality-of-Life,614,387,11.5,28887,38.0,0.63
+48,Calumet Heights,Violent,2786,337,11.5,28887,38.0,0.121
+49,Roseland,Other,4708,829,19.8,17949,52.0,0.176
+49,Roseland,Property,15201,788,19.8,17949,52.0,0.052
+49,Roseland,Quality-of-Life,3294,2423,19.8,17949,52.0,0.736
+49,Roseland,Violent,13327,1940,19.8,17949,52.0,0.146
+50,Pullman,Other,891,138,21.6,20588,51.0,0.155
+50,Pullman,Property,2847,458,21.6,20588,51.0,0.161
+50,Pullman,Quality-of-Life,457,336,21.6,20588,51.0,0.735
+50,Pullman,Violent,2211,334,21.6,20588,51.0,0.151
+51,South Deering,Other,1360,152,29.2,14685,65.0,0.112
+51,South Deering,Property,5086,452,29.2,14685,65.0,0.089
+51,South Deering,Quality-of-Life,707,435,29.2,14685,65.0,0.615
+51,South Deering,Violent,3871,482,29.2,14685,65.0,0.125
+52,East Side,Other,1000,100,19.2,17104,64.0,0.1
+52,East Side,Property,3089,99,19.2,17104,64.0,0.032
+52,East Side,Quality-of-Life,490,298,19.2,17104,64.0,0.608
+52,East Side,Violent,2554,358,19.2,17104,64.0,0.14
+53,West Pullman,Other,2938,476,25.9,16563,62.0,0.162
+53,West Pullman,Property,9514,374,25.9,16563,62.0,0.039
+53,West Pullman,Quality-of-Life,2140,1468,25.9,16563,62.0,0.686
+53,West Pullman,Violent,7936,1104,25.9,16563,62.0,0.139
+54,Riverdale,Other,780,85,56.5,8201,98.0,0.109
+54,Riverdale,Property,2880,126,56.5,8201,98.0,0.044
+54,Riverdale,Quality-of-Life,528,331,56.5,8201,98.0,0.627
+54,Riverdale,Violent,3325,398,56.5,8201,98.0,0.12
+55,Hegewisch,Other,696,45,17.1,22677,44.0,0.065
+55,Hegewisch,Property,1838,62,17.1,22677,44.0,0.034
+55,Hegewisch,Quality-of-Life,124,66,17.1,22677,44.0,0.532
+55,Hegewisch,Violent,1305,168,17.1,22677,44.0,0.129
+56,Garfield Ridge,Other,2207,143,8.8,26353,32.0,0.065
+56,Garfield Ridge,Property,5736,338,8.8,26353,32.0,0.059
+56,Garfield Ridge,Quality-of-Life,999,733,8.8,26353,32.0,0.734
+56,Garfield Ridge,Violent,2968,406,8.8,26353,32.0,0.137
+57,Archer Heights,Other,818,46,14.1,16134,67.0,0.056
+57,Archer Heights,Property,2774,163,14.1,16134,67.0,0.059
+57,Archer Heights,Quality-of-Life,306,147,14.1,16134,67.0,0.48
+57,Archer Heights,Violent,1644,170,14.1,16134,67.0,0.103
+58,Brighton Park,Other,1772,135,23.6,13089,84.0,0.076
+58,Brighton Park,Property,5201,245,23.6,13089,84.0,0.047
+58,Brighton Park,Quality-of-Life,783,480,23.6,13089,84.0,0.613
+58,Brighton Park,Violent,5015,730,23.6,13089,84.0,0.146
+59,McKinley Park,Other,580,47,18.7,16954,61.0,0.081
+59,McKinley Park,Property,2756,202,18.7,16954,61.0,0.073
+59,McKinley Park,Quality-of-Life,309,189,18.7,16954,61.0,0.612
+59,McKinley Park,Violent,1671,239,18.7,16954,61.0,0.143
+60,Bridgeport,Other,1415,86,18.9,22694,43.0,0.061
+60,Bridgeport,Property,4515,255,18.9,22694,43.0,0.056
+60,Bridgeport,Quality-of-Life,441,284,18.9,22694,43.0,0.644
+60,Bridgeport,Violent,2693,404,18.9,22694,43.0,0.15
+61,New City,Other,2829,415,29.0,12765,91.0,0.147
+61,New City,Property,9344,794,29.0,12765,91.0,0.085
+61,New City,Quality-of-Life,2307,1547,29.0,12765,91.0,0.671
+61,New City,Violent,9854,1478,29.0,12765,91.0,0.15
+62,West Elsdon,Other,885,54,15.6,15754,69.0,0.061
+62,West Elsdon,Property,2589,140,15.6,15754,69.0,0.054
+62,West Elsdon,Quality-of-Life,336,203,15.6,15754,69.0,0.604
+62,West Elsdon,Violent,1705,250,15.6,15754,69.0,0.147
+63,Gage Park,Other,1633,179,23.4,12171,93.0,0.11
+63,Gage Park,Property,5347,334,23.4,12171,93.0,0.062
+63,Gage Park,Quality-of-Life,999,662,23.4,12171,93.0,0.663
+63,Gage Park,Violent,4819,732,23.4,12171,93.0,0.152
+64,Clearing,Other,1352,58,8.9,25113,29.0,0.043
+64,Clearing,Property,2825,92,8.9,25113,29.0,0.033
+64,Clearing,Quality-of-Life,201,107,8.9,25113,29.0,0.532
+64,Clearing,Violent,1875,261,8.9,25113,29.0,0.139
+65,West Lawn,Other,1499,77,14.9,16907,56.0,0.051
+65,West Lawn,Property,5178,310,14.9,16907,56.0,0.06
+65,West Lawn,Quality-of-Life,433,241,14.9,16907,56.0,0.557
+65,West Lawn,Violent,2880,418,14.9,16907,56.0,0.145
+66,Chicago Lawn,Other,4029,445,27.9,13231,80.0,0.11
+66,Chicago Lawn,Property,12598,663,27.9,13231,80.0,0.053
+66,Chicago Lawn,Quality-of-Life,2586,1892,27.9,13231,80.0,0.732
+66,Chicago Lawn,Violent,12118,1669,27.9,13231,80.0,0.138
+67,West Englewood,Other,3502,591,34.4,11317,89.0,0.169
+67,West Englewood,Property,11679,558,34.4,11317,89.0,0.048
+67,West Englewood,Quality-of-Life,3952,3140,34.4,11317,89.0,0.795
+67,West Englewood,Violent,13079,1724,34.4,11317,89.0,0.132
+68,Englewood,Other,3462,561,46.6,11888,94.0,0.162
+68,Englewood,Property,11307,532,46.6,11888,94.0,0.047
+68,Englewood,Quality-of-Life,3673,3005,46.6,11888,94.0,0.818
+68,Englewood,Violent,13419,1708,46.6,11888,94.0,0.127
+69,Greater Grand Crossing,Other,4110,576,29.6,17285,66.0,0.14
+69,Greater Grand Crossing,Property,15492,800,29.6,17285,66.0,0.052
+69,Greater Grand Crossing,Quality-of-Life,3499,2566,29.6,17285,66.0,0.733
+69,Greater Grand Crossing,Violent,15410,2041,29.6,17285,66.0,0.132
+70,Ashburn,Other,2311,91,10.4,23482,37.0,0.039
+70,Ashburn,Property,6072,220,10.4,23482,37.0,0.036
+70,Ashburn,Quality-of-Life,557,258,10.4,23482,37.0,0.463
+70,Ashburn,Violent,4235,491,10.4,23482,37.0,0.116
+71,Auburn Gresham,Other,5154,750,27.6,15528,74.0,0.146
+71,Auburn Gresham,Property,16701,906,27.6,15528,74.0,0.054
+71,Auburn Gresham,Quality-of-Life,3352,2629,27.6,15528,74.0,0.784
+71,Auburn Gresham,Violent,15492,2259,27.6,15528,74.0,0.146
+72,Beverly,Other,1302,88,5.1,39523,12.0,0.068
+72,Beverly,Property,2742,131,5.1,39523,12.0,0.048
+72,Beverly,Quality-of-Life,156,129,5.1,39523,12.0,0.827
+72,Beverly,Violent,1354,165,5.1,39523,12.0,0.122
+73,Washington Height,Other,2556,262,16.9,19713,48.0,0.103
+73,Washington Height,Property,8384,535,16.9,19713,48.0,0.064
+73,Washington Height,Quality-of-Life,1218,1073,16.9,19713,48.0,0.881
+73,Washington Height,Violent,5939,790,16.9,19713,48.0,0.133
+74,Mount Greenwood,Other,901,46,3.4,34381,16.0,0.051
+74,Mount Greenwood,Property,1315,95,3.4,34381,16.0,0.072
+74,Mount Greenwood,Quality-of-Life,109,100,3.4,34381,16.0,0.917
+74,Mount Greenwood,Violent,876,124,3.4,34381,16.0,0.142
+75,Morgan Park,Other,1893,155,13.2,27149,30.0,0.082
+75,Morgan Park,Property,5090,370,13.2,27149,30.0,0.073
+75,Morgan Park,Quality-of-Life,689,604,13.2,27149,30.0,0.877
+75,Morgan Park,Violent,3692,489,13.2,27149,30.0,0.132
+76,O'Hare,Other,1667,207,15.4,25828,24.0,0.124
+76,O'Hare,Property,4907,736,15.4,25828,24.0,0.15
+76,O'Hare,Quality-of-Life,910,776,15.4,25828,24.0,0.853
+76,O'Hare,Violent,2076,435,15.4,25828,24.0,0.21
+77,Edgewater,Other,2644,102,18.2,33385,19.0,0.039
+77,Edgewater,Property,9500,724,18.2,33385,19.0,0.076
+77,Edgewater,Quality-of-Life,242,183,18.2,33385,19.0,0.756
+77,Edgewater,Violent,5215,753,18.2,33385,19.0,0.144
