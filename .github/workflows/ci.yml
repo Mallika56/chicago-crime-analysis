@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate-notebooks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      # The pipeline's own execution needs a live, paginated pull from the
+      # Chicago Data Portal (see 01_ingest.ipynb) and isn't something CI can
+      # run: anonymous Socrata access is rate-limited and a full 1.5M-row
+      # pull takes far too long for a check. This validates structure and
+      # syntax instead, which still catches a broken notebook (bad JSON, a
+      # cell that no longer compiles) without depending on the external API.
+      - name: Validate notebook structure and syntax
+        run: |
+          set -e
+          for nb in *.ipynb; do
+            echo "checking $nb"
+            jupyter nbconvert --to script --stdout "$nb" \
+              | python3 -c "import sys; compile(sys.stdin.read(), '$nb', 'exec')"
+          done
