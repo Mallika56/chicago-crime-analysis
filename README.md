@@ -22,7 +22,7 @@ This project studies neighborhood crime patterns across Chicago's 77 community a
 
 ## Tech Stack
 
-**Python** (pandas, sodapy, GeoPandas, PyArrow) · **Tableau Public** · **Jupyter**
+**Python** (pandas, sodapy, PyArrow) · **Tableau Public** · **Jupyter**
 
 ## Pipeline
 
@@ -46,11 +46,16 @@ Built in Tableau Public with four linked views — a density heatmap, a neighbor
 git clone https://github.com/Mallika56/chicago-crime-analysis.git
 cd chicago-crime-analysis
 python3 -m venv venv && source venv/bin/activate
-pip install pandas pyarrow sodapy jupyter geopandas
+pip install -r requirements.txt
 
 # run notebooks 01 → 04 in order
 # (raw data regenerates from the API; large files are gitignored)
 ```
+
+`01_ingest.ipynb` and `03_reference.ipynb` pull from the Chicago Data Portal anonymously (no
+app token), which is rate-limited — a fresh `01_ingest` run pages through ~1.5M rows and can
+take a while. CI validates notebook structure and syntax on every push; it doesn't execute the
+pipeline, since that live pull isn't practical to run there.
 
 ## Data Sources
 
